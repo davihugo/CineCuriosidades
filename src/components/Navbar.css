@@ -1,25 +1,19 @@
-:root {
-    --color1: #68b2f8;
-    --color2: #506ee5;
-    --color3: #7037cd;
-    --color4: #651f71;
-    --color5: #1d0c20;
-}
+
 
 #navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 1rem 2rem;
-    background-color: #FFCDB8; /* Fundo rosa claro */
-    border-bottom: 1px solid #C8C696; /* Borda inferior verde oliva claro */
+    background-color: #134c64; 
+    border-bottom: 1px solid #02080B; 
 }
 
 #navbar h2 a {
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    color: #37260C; /* Texto marrom escuro */
+    color: #d8d1c6; 
     text-decoration: none;
 }
 
@@ -31,15 +25,15 @@
 #navbar input {
     padding: 0.2rem 0.8rem;
     border-radius: 4px;
-    border: 1px solid #C8C696; /* Borda verde oliva claro */
-    background-color: #FDEECF; /* Fundo creme claro */
+    border: 1px solid #02080B; 
+    background-color: #FDEECF; 
 }
 
 #navbar form button {
-    background-color: #97BEA9; /* Botão verde menta */
-    border: 2px solid #97BEA9;
+    background-color: #FDEECF; 
+    border: 1px solid #02080B;
     border-radius: 4px;
-    color: #37260C; /* Texto do botão marrom escuro */
+    color: #37260C; 
     padding: 0.3rem;
     font-size: 1.3rem;
     display: flex;

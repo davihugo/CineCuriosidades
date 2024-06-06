@@ -3,12 +3,12 @@
     justify-content: center;
     align-items: center;
     padding: 2rem;
-    background-color: #FDEECF;
+    background-color: #02080B;
 }
 
 .movie-card {
-    background-color: #FFF; 
-    border: 1px solid #C8C696; 
+    background-color: #312924; 
+    border: 1px solid #d8d1c6; 
     border-radius: 8px;
     padding: 2rem;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
@@ -18,13 +18,13 @@
 }
 
 .movie-card .movie-image {
-    text-align: center; /* Centraliza a imagem horizontalmente */
+    text-align: center; 
     margin-bottom: 1.5rem;
 }
 
 .movie-card .tagline {
     font-style: italic;
-    color: #37260C; 
+    color: #d8d1c6; 
     margin-bottom: 1rem;
 }
 
@@ -37,18 +37,18 @@
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    color: #97BEA9; 
+    color: #d8d1c6; 
     font-size: 1.2rem;
     margin-bottom: 0.5rem;
 }
 
 .movie-card .info p {
-    color: #37260C; 
+    color: #d8d1c6; 
     font-size: 1rem;
 }
 
 .movie-card .info.description p {
     font-size: 1rem;
-    color: #37260C; 
+    color: #d8d1c6; 
     line-height: 1.5;
 }

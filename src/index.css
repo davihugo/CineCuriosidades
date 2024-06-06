@@ -6,16 +6,16 @@
 }
 
 body {
-    background-color: #FDEECF; /* Fundo creme claro */
-    color: #37260C; /* Texto marrom escuro */
+    background-color: #02080B; /* Fundo creme claro */
+    color: #837969; /* Texto marrom escuro */
 }
 
 a {
     text-decoration: none;
-    color: #97BEA9; /* Verde menta */
+    color: #252E32; 
     transition: color 0.5s ease;
 }
 
 a:hover {
-    color: #C8C696; /* Verde oliva claro ao passar o mouse */
+    color: #252E32; /* Verde oliva claro ao passar o mouse */
 }

@@ -1,12 +1,12 @@
 .container .title {
-  color: #37260C; /* Título marrom escuro */
+  color: #d8d1c6; 
   font-size: 2.5rem;
   text-align: center;
   margin: 2rem 0 1rem;
 }
 
 .title .query-text {
-  color: #97BEA9; /* Verde menta */
+  color: #837969; /* Verde menta */
 }
 
 .movies-container {
@@ -20,14 +20,14 @@
 
 .movies-container div {
   width: 30%;
-  color: #37260C; /* Texto marrom escuro */
+  color: #d8d1c6; 
   margin-bottom: 2.5rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background-color: #FDEECF; /* Fundo creme claro */
+  background-color: #312924; 
   padding: 1rem;
-  border: 1px solid #C8C696; /* Borda verde oliva claro */
+  border: 2px solid #837969; 
   border-radius: 8px;
 }
 
@@ -43,12 +43,12 @@
 }
 
 .movies-container div svg {
-  color: #97BEA9; /* Verde menta */
+  color: #134c64; /* Verde menta */
 }
 
 .movies-container div a {
-  background-color: #97BEA9; /* Botão verde menta */
-  border: 2px solid #97BEA9;
+  background-color: #134c64; /* Botão verde menta */
+  border: 2px solid #134c64;
   border-radius: 4px;
   color: #37260C; /* Texto do botão marrom escuro */
   padding: 1rem 0.5rem;
@@ -59,6 +59,6 @@
 
 .movies-container div a:hover {
   background-color: transparent;
-  color: #97BEA9;
-  border-color: #97BEA9;
+  color: #d8d1c6;
+  border-color: #d8d1c6;
 }
